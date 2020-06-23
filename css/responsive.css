@@ -351,6 +351,25 @@
         margin-top: 40rem;
     }
 
+    .hvr-bounce-to-right:active {
+        padding-left: 8px;
+        left: 0px;
+        margin-left: 50px;
+        margin-right: 5px;
+    }
+
+    .left-header>h1.title {
+        padding-bottom: 14px;
+        margin: -110px 25px 20px 0;
+    }
+        
+
+    .btn-wrapper {
+        text-align: center;
+        margin-right: 30px;
+        margin-top: 15px;
+    }
+
     .get-started {
         /* justify-content: center; */
         margin: 0 auto;
@@ -392,8 +411,15 @@
         min-width: auto;
     }
 
+    h6.footer-title {
+        margin-left: 10px;
+    }
+
     .footer-right button,
     .footer-right input {
         width: 100%;
+        margin-left: 2px;
     }
+
+    
 }
