@@ -363,9 +363,23 @@
         margin-right: 5px;
     }
 
+    .left-header>h1.title {
+        margin-right: 20px;
+        margin-top: -110px;
+    }
+    
+    .left-header>p.subtitle {
+        margin-right: 0px;
+        margin-left: 25px;
+    }
+
     .get-started {
         /* justify-content: center; */
         margin: 0 auto;
+    }
+
+    .btn-wrapper {
+        margin-right: 45px;
     }
 
     .clients>.client {
