@@ -109,16 +109,16 @@
     .left-header>p.subtitle { 
     /* padding-bottom: 14px; */
     line-height: 24px;
-    margin: 0 32px 0;
-    margin-left: 50px;
     max-width: 80%;
     padding-right: 10px;
     padding-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 55px;
     }
 
     .left-header>h1.title {
-        padding-bottom: 14px;
-        margin: 0px 25px 20px 0;
+       margin: 0px 0px 20px;
+       padding: 0px 0px 14px;
     }
         
 
@@ -364,8 +364,9 @@
     }
 
     .left-header>h1.title {
-        margin-right: 20px;
+        margin-right: 10px;
         margin-top: -110px;
+        margin-right: 10px;
     }
 
     .left-header>p.subtitle {
@@ -376,10 +377,14 @@
     .get-started {
         /* justify-content: center; */
         margin: 0 auto;
+        margin-left: 25px;
+        margin-top: 15px;
     }
 
     .btn-wrapper {
         margin-right: 45px;
+        padding-left: 0px;
+        margin-left: 25px;
     }
 
     .clients>.client {
