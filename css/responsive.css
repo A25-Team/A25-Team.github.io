@@ -277,6 +277,16 @@
         padding-top: 4px;
     }
 
+    .left-header>h1.title {
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+
+    .left-header>p.subtitle {
+        margin-right: 0px;
+        margin-left: 55px;
+    }
+    
     .hvr-bounce-to-right:active {
         padding-left: 8px;
         left: 0px;
@@ -284,7 +294,7 @@
         margin-right: 5px;
     }
 
-    .getstarted {
+    a.btn.getstarted {
         margin-left: 25px;
     }
 
