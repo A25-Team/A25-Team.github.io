@@ -278,24 +278,15 @@
     }
 
     .left-header>h1.title {
-        margin-top: 0px;
-        margin-right: 0px;
+        padding-bottom: 14px;
+        margin: -110px 25px 20px 0;
     }
 
-    .left-header>p.subtitle {
-        margin-right: 0px;
-        margin-left: 55px;
-    }
-    
     .hvr-bounce-to-right:active {
         padding-left: 8px;
         left: 0px;
         margin-left: 50px;
         margin-right: 5px;
-    }
-
-    a.btn.getstarted {
-        margin-left: 25px;
     }
 
     .content {
