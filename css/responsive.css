@@ -364,9 +364,8 @@
     }
 
     .left-header>h1.title {
-        margin-right: 10px;
-        margin-top: -110px;
-        margin-right: 10px;
+        padding-bottom: 14px;
+        margin: -110px 25px 20px 0;
     }
 
     .left-header>p.subtitle {
